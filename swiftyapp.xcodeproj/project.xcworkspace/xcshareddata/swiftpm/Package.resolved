@@ -1,0 +1,15 @@
+{
+  "originHash" : "7d93f5825c1873c56cf302895c462214f670469d315a4e7033f39e71e078bd80",
+  "pins" : [
+    {
+      "identity" : "pendo-mobile-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pendo-io/pendo-mobile-sdk",
+      "state" : {
+        "revision" : "dd33c3ccdc117d0842e10e7ec929a2e044fc8d8b",
+        "version" : "3.4.3"
+      }
+    }
+  ],
+  "version" : 3
+}
